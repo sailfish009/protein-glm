@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
   name = 'protein-glm',
   packages = find_packages(exclude=[]),
-  version = '0.0.1',
+  version = '0.0.2',
   license='MIT',
   description = 'Protein generative model with General Language Model PreTraining (GLM)',
   author = 'Phil Wang',
